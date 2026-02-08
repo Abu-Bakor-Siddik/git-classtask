@@ -1,0 +1,4 @@
+Git is a tool that helps you keep track of changes in your code or files.
+It lets you save different versions of your work so you don’t lose anything.
+You can also work with others and combine everyone’s changes easily.
+Many developers use Git with sites like GitHub to manage their projects.
